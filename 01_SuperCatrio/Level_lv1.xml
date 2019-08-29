@@ -1,0 +1,27 @@
+<level>
+	<objects>
+		<ExitDoor x="422" y="404"/>
+		<Hero x="90" y="430"/>
+		<KeyObj x="38" y="394"/>
+		<Stone x="273" y="384"/>
+		<Stone x="273" y="400"/>
+		<Stone x="273" y="416"/>
+		<Stone x="303" y="416"/>
+		<Stone x="303" y="400"/>
+		<Stone x="303" y="384"/>
+		<Stone x="288" y="416"/>
+		<Stone x="288" y="400"/>
+		<Stone x="288" y="384"/>
+		<Coin x="432" y="350"/>
+		<QueObj x="332" y="370" text="There is a star waiting for you to collect
+in every stage.You can gather they, but this
+does not affect the pass."/>
+		<QueObj x="124" y="370"
+		text="Welcome!
+This game is very easy.
+You find the key in the stage,
+and then open the door with this key.
+Good Luck!
+" item="BallItem"/>
+	</objects>
+</level>
