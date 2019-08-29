@@ -4,9 +4,7 @@
 
 1.input command at the console
 ```
-git clone https://github.com/zfteam/supercatrio-gameshell.git
-cd supermario-gameshell
-sh ./install.sh
+wget https://raw.githubusercontent.com/zfteam/supercatrio-gameshell/master/install.sh && sh install.sh
 ```
 
 2.refresh the lanucher and you'll find game in the indie games menu
