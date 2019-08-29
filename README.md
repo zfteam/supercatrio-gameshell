@@ -4,7 +4,7 @@
 
 1.input command at the console
 ```
-git clone https://github.com/zfteam/supermario-gameshell.git
+git clone https://github.com/zfteam/supercatrio-gameshell.git
 cd supermario-gameshell
 sh ./install.sh
 ```
