@@ -1,1 +1,1 @@
-./supercatrio > game.log
+./supercatrio
